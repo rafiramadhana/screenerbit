@@ -23,6 +23,6 @@ Convert Stockbit Screener Result to CSV
 5. A "Download CSV" button will appear in your screener
 6. Click "Download CSV" button to download the csv of you screener result
 
-<img src='asset/stockscreener.png' width='250'>
+<img src='asset/stockscreener.png' width='800'>
 
 PS. Ensure that you've logged in to Stockbit
